@@ -1,2 +1,3 @@
 # hello_world
-my first github project
+hello there
+this is my first read me .md text edit and i decided why not save it
